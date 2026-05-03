@@ -1,12 +1,24 @@
-## What is a GRC Casebook?
+# 🛡️ GRC Casebook Portfolio
 
-A GRC (Governance, Risk, and Compliance) Casebook is a structured collection of practical, scenario-based assessments that demonstrate the application of risk management, control design, and regulatory compliance frameworks in real-world or simulated environments.
+This repository simulates real-world Governance, Risk, and Compliance (GRC) consulting engagements.
 
 Each case study in this repository follows a standardized approach:
 - Business scenario definition  
 - Risk identification and assessment  
 - Control design and implementation strategy  
-- Framework mapping (e.g., PCI DSS, ISO 27001)  
+- Framework mapping (e.g., PCI DSS, NIST CSF, ISO 27001)  
 - Validation and testing approach  
 
-The purpose of this casebook is to showcase hands-on GRC capabilities, including risk analysis, control evaluation, and compliance alignment, in a format consistent with industry and consulting practices.
+## 📌 Frameworks Covered
+- PCI DSS
+- NIST Cybersecurity Framework (CSF)
+
+## 📁 Case Studies
+- Network Segmentation (PCI DSS)
+- IAM / PAM Access Control (PCI DSS)
+- Incident Response Readiness (NIST CSF)
+- Asset & Risk Management (NIST CSF)
+
+## 🎯 Objective
+To demonstrate enterprise-level GRC thinking including:
+risk assessment, control design, compliance mapping, and audit readiness.
